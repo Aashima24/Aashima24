@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aashiima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashiima" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashimagarg24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashimagarg24/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https:aashimagarg24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https:aashimagarg24" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/aashimavt1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aashimavt1n" height="30" width="40" /></a>
 </p>
 
